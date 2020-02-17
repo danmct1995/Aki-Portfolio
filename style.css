@@ -1,0 +1,120 @@
+.Logo {
+  max-width: 12.5%;
+  float: left;
+  margin-right: 40%;
+  margin-left: 40%;
+  margin-top: 1%;
+  position: absolute;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+html{
+  overflow-x: hidden;
+}
+.Nav-bar > ul {
+  list-style-type: none;
+  padding: 5% 2% 0% 0%;
+}
+.Nav-bar > ul li {
+  float: right;
+}
+.Nav-bar > ul li a {
+  text-decoration: none;
+  color: #21145f;
+  font-size: 1.5vw;
+  font-weight: 700;
+  font-family: "karla", "sans-serif";
+  padding: 1em 1.5em 1em 1.5em;
+}
+.Nav-bar > ul li a:hover {
+  background-color: rgba(170, 218, 145, 0.6);
+}
+nav {
+  margin: 0% 0% 10% 0%;
+}
+.illustration {
+  max-width: 60%;
+  float: right;
+  margin: 0% -2% 0% 0%;
+}
+.top > p {
+  font-size: 3.2vw;
+  font-family: "karla";
+  color: #2a7de1;
+  position: absolute;
+  max-width: 45%;
+  margin: 11% 0% 0% 10%;
+  font-weight: 700;
+}
+.shape1 {
+  max-width: 30%;
+  position: absolute;
+  margin: 35% 0% 0% -7%;
+}
+.aki {
+  max-width: 30%;
+  height: auto;
+  margin: 20% 0% 0% 15%;
+}
+ span {
+  max-width: 40%;
+  color: #21145f;
+  font-family: "karla";
+  font-size: 2vw;
+  float: right;
+  margin: 20% 10% 0% 0%;
+  text-align: justify;
+  font-weight: 700;
+}
+.Resume {
+  clear: both;
+  margin: 55.5% 0% 0% 5%;
+  position: absolute;
+  border-radius: 25px;
+  padding: 1em 2em;
+  border: 0px;
+  background-color: rgba(170, 218, 145, 0.6);
+  color: #21145f;
+  font-family: "karla";
+  font-size: 1.5vw;
+  font-weight: 700;
+  cursor: pointer;
+}
+.Resume:hover {
+    background-color: rgba(170, 218, 145, 1.0);
+  transition: 0.4s;
+}
+.bean {
+  max-width: 25%;
+  float: right;
+  margin: 45% 0% 0% 40%;
+  position: absolute;
+}
+footer {
+  clear: both;
+  background-color: #2a7de1;
+  text-align: center;
+  padding: 2% 0% 3% 0%;
+  margin-top: 20%;
+  position: relative;
+}
+footer > ul li {
+  list-style: none;
+  display: inline;
+}
+footer > ul li a {
+  text-align: center;
+  font-size: 2vw;
+  margin: 0% 3%;
+  overflow: hidden;
+  text-decoration: none;
+}
+footer > ul li a .fab {
+  color: white;
+}
+footer > ul li a:hover .fab {
+  color: lightgray;
+  transition: 0.3s;
+}
