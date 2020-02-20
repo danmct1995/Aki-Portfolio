@@ -1,0 +1,128 @@
+.Logo {
+  max-width: 12.5%;
+  float: left;
+  margin-right: 40%;
+  margin-left: 43%;
+  margin-top: 1%;
+  position: absolute;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  overflow-x: hidden;
+}
+.Nav-bar > ul {
+  list-style-type: none;
+  padding: 5% 2% 0% 0%;
+}
+.Nav-bar > ul li {
+  float: right;
+}
+.Nav-bar > ul li a {
+  text-decoration: none;
+  color: #21145f;
+  font-size: 1.5vw;
+  font-weight: 700;
+  font-family: "karla", "sans-serif";
+  padding: 1em 1.5em 1em 1.5em;
+}
+.Nav-bar > ul li a:hover {
+  background-color: rgba(170, 218, 145, 0.6);
+}
+nav {
+  margin: 0% 0% 15% 0%;
+}
+footer {
+  clear: both;
+  background-color: #2a7de1;
+  text-align: center;
+  padding: 2% 0% 3% 0%;
+  margin-top: 15%;
+  position: relative;
+}
+footer > ul li {
+  list-style: none;
+  display: inline;
+}
+footer > ul li a {
+  text-align: center;
+  font-size: 2vw;
+  margin: 0% 3%;
+  overflow: hidden;
+  text-decoration: none;
+}
+footer > ul li a .fab {
+  color: white;
+}
+footer > ul li a:hover .fab {
+  transform: scale(1.3);
+  transition: 0.3s;
+}
+h1 {
+  color: #2a7de1;
+  font-family: "karla";
+  font-size: 3vw;
+  margin-bottom: 5%;
+}
+.alignment p {
+  font-family: "karla";
+  font-size: 1.5vw;
+  margin-bottom: 10%;
+}
+.alignment2 p {
+  font-family: "karla";
+  font-size: 1.5vw;
+  margin-bottom: 10%;
+  font-weight: 700;
+}
+.alignment {
+  text-align: center;
+  margin: 0% 10%;
+}
+.alignment2 {
+  text-align: center;
+  margin: 0% 20%;
+}
+h2 {
+  font-family: "karla";
+  font-size: 1.8vw;
+  margin-bottom: 3%;
+}
+.image_resize {
+  width: 50%;
+  float: left;
+  margin-bottom: 2%;
+}
+.margin {
+  margin: 0% 10%;
+}
+.alignment3 {
+  margin: 0% 10% 0% 10%;
+}
+.alignment3 p {
+  font-family: "karla";
+  font-size: 1.3vw;
+  margin-bottom: 1%;
+}
+.move {
+  margin-bottom: 3%;
+  font-family: "karla";
+  font-size: 1.3vw;
+  padding-top: 3%;
+}
+.image_resize2 {
+  width: 80%;
+  margin-left: 10%;
+}
+.gap {
+  margin-top: 10%;
+}
+.upwork {
+  width: 2.2%;
+}
+.upwork:hover {
+  transform: scale(1.3);
+  transition: 0.3s;
+}
