@@ -63,21 +63,20 @@ footer > ul li a:hover .fab {
 h1 {
   color: #2a7de1;
   font-family: "karla";
-  font-size: 3vw;
+  font-size: 2vw;
   margin-bottom: 5%;
 }
 .alignment p {
   font-family: "karla";
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   margin-bottom: 30%;
-  font-weight: 700;
 }
 .alignment {
   text-align: center;
-  margin: 0% 10% 20% 10%;
+  margin: 0% 20% 20% 20%;
 }
 .margin {
-  margin: 0% 10% 0% 10%;
+  margin: 0% 18% 0% 18%;
 }
 .image_resize {
   width: 32%;
@@ -86,10 +85,9 @@ h1 {
   width: 100%;
 }
 .paragraph2 p {
-  margin: 0% 10%;
+  margin: 0% 20%;
   font-family: "karla";
-  font-size: 1.5vw;
-  font-weight: 700;
+  font-size: 1.3vw;
   margin-bottom: 2.5%;
 }
 .upwork {
