@@ -62,17 +62,17 @@ footer > ul li a:hover .fab {
 h1 {
   color: #2a7de1;
   font-family: "karla";
-  font-size: 3vw;
+  font-size: 2vw;
   margin-bottom: 5%;
 }
 h2 {
   font-family: "karla";
-  font-size: 1.8vw;
+  font-size: 1.5vw;
   margin-bottom: 3%;
 }
 .alignment {
   text-align: center;
-  margin: 0% 10%;
+  margin: 0% 20%;
 }
 
 .alignment2 {
@@ -82,20 +82,19 @@ h2 {
 
 .alignment p {
   font-family: "karla";
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   margin-bottom: 10%;
 }
 .alignment2 p {
   font-family: "karla";
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   margin-bottom: 10%;
-  font-weight: 700;
 }
 .image_resize {
   width: 100%;
 }
 .margin {
-  margin: 0% 10%;
+  margin: 0% 20%;
 }
 .image_resize2 {
   width: 25%;
@@ -103,22 +102,21 @@ h2 {
   margin: 10% 5% 0% 0%;
 }
 .margin p {
-  margin: 17.5% 0% 0% 0%;
+  margin: 12% 0% 0% 0%;
   font-family: "karla";
-  font-weight: 700;
-  font-size: 1.5vw;
+  font-size: 1.3vw;
 }
 h3 {
   clear: both;
   font-family: "karla";
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   margin: 5% 0% 0% 8.5%;
 }
 h4 {
   font-family: "karla";
-  font-size: 1.5vw;
+  font-size: 1.3vw;
   float: right;
-  margin: -2% 51% 15% 0%;
+  margin: -2.7% 50% 15% 0%;
 }
 .image_resize3 {
   width: 100%;
