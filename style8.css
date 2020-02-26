@@ -133,3 +133,41 @@ h1 {
   font-size: 1.3vw;
   margin-bottom: 2.5%;
 }
+.container {
+  display: flex; 
+  justify-content: space-evenly;
+  margin-top: 5%;
+}
+.container a {
+text-decoration: none;
+}
+.container p {
+font-size: 1vw;
+font-family: 'karla';
+color: #21145f;
+}
+.containerimg {
+  width: 100%;
+  height: auto;
+     border: 1px solid gainsboro;
+}
+.next {
+  display: flex;
+  flex-direction: column;
+  width: 13%;
+  text-align: center;
+}
+.previous{
+  display: flex;
+  flex-direction: column;
+  width: 13%;
+  text-align: center;
+}
+.next:hover {
+    transform: scale(1.15);
+  transition: 0.3s;
+}
+.previous:hover {
+    transform: scale(1.15);
+  transition: 0.3s;
+}
