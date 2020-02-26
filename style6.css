@@ -37,7 +37,7 @@ nav {
 footer {
   background-color: #2a7de1;
   padding: 2% 0% 2% 0%;
-  margin-top: 20%;
+  margin-top: 10%;
   display: flex; 
 }
 .empty {
@@ -167,7 +167,7 @@ h2 {
 .container {
   display: flex; 
   justify-content: space-evenly;
-  margin-top: 5%;
+  margin-top: 10%;
 }
 .container a {
 text-decoration: none;
