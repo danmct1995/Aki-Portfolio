@@ -107,7 +107,7 @@ text-decoration: underline;
   display: grid;
   grid-gap: 2rem;
   grid-template-columns: repeat(3, 1fr);
-  margin: 0% 5% 5% 5%;
+  margin: 0% 12.5% 5% 12.5%;
 }
 .resize {
   max-width: 100%;
