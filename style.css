@@ -162,9 +162,12 @@ footer > ul.navi li.navi a {
 footer > ul.navi li.navi a:hover {
 text-decoration: underline;
 }
+
+/* MOBILE RESPONSIVE */
+
 @media (min-width: 768px) and (max-width: 1024px) {
  .Nav-bar > ul li a  {
-font-size: 1.3em;
+font-size: 1em;
   }
 }
 @media (max-width: 767px) {
@@ -179,6 +182,56 @@ font-size: 1.3em;
 }
 @media (max-width: 767px) {
 .top > p {
-    font-size: 0.75em;
+    font-size: 0.70em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+span  {
+font-size: 1em;
+  }
+}
+@media (max-width: 767px) {
+span {
+    font-size: 0.40em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+.Resume {
+font-size: 0.8em;
+  }
+}
+@media (max-width: 767px) {
+.Resume {
+    font-size: 0.375em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+footer > ul.social li.social a {
+font-size: 1em;
+  }
+}
+@media (max-width: 767px) {
+footer > ul.social li.social a {
+    font-size: 0.6em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+footer > ul.social li.social a {
+font-size: 1em;
+  }
+}
+@media (max-width: 767px) {
+footer > ul.social li.social a {
+    font-size: 0.6em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+footer > ul.navi li.navi a{
+font-size: 0.8em;
+  }
+}
+@media (max-width: 767px) {
+footer > ul.navi li.navi a{
+    font-size: 0.4em;
   }
 }
