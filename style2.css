@@ -23,7 +23,7 @@ html {
 .Nav-bar > ul li a {
   text-decoration: none;
   color: #21145f;
-  font-size: 1.5vw;
+  font-size: 1.5em;
   font-weight: 700;
   font-family: "karla", "sans-serif";
   padding: 1em 1.5em 1em 1.5em;
@@ -63,7 +63,7 @@ footer ul.social li.social {
   margin: 0% 20% 0% 0%;
 }
 footer > ul.social li.social a {
-  font-size: 2vw;
+  font-size: 2em;
   margin: 0% 0% 0% 0%;
   overflow: hidden;
   text-decoration: none;
@@ -90,7 +90,7 @@ footer > ul.navi li.navi {
 .navi-title {
   color: white;
   font-family: 'karla';
-  font-size: 1.4vw;
+  font-size: 1.4em;
     margin: 0% 0% 2.5% 0%; 
   font-weight: 700;
 }
@@ -98,7 +98,7 @@ footer > ul.navi li.navi a {
    text-decoration: none;
   color: white;
     font-family: 'karla';
-  font-size: 1.2vw;
+  font-size: 1.2em;
 }
 footer > ul.navi li.navi a:hover {
 text-decoration: underline;
@@ -134,7 +134,7 @@ text-decoration: underline;
 
 .text {
   color: white;
-  font-size: 2vw;
+  font-size: 2em;
   position: absolute;
   top: 85%;
   left: 50%;
