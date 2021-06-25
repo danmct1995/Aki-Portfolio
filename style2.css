@@ -146,6 +146,13 @@ text-decoration: underline;
   position: relative;
   overflow: hidden;
 }
+h4 {
+  color: #2a7de1;
+  font-family: "karla";
+  font-size: 2em;
+  margin-bottom: 7.5%;
+  text-align: center;
+}
 /* MOBILE RESPONSIVE */
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -209,5 +216,15 @@ font-size: 1em;
 @media (max-width: 767px) {
 .text {
     font-size: 0.5em;
+  }
+}
+@media (max-width: 767px) {
+  h4 {
+    font-size: 0.6em;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  h4 {
+    font-size: 1.25em;
   }
 }
