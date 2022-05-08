@@ -32,7 +32,7 @@ html {
   background-color: rgba(170, 218, 145, 0.6);
 }
 nav {
-  margin: 0% 0% 15% 0%;
+  margin: 0% 0% 10% 0%;
 }
 footer {
   background-color: #2a7de1;
@@ -129,7 +129,7 @@ h4 {
 }
 .alignment {
   text-align: center;
-  margin: 12.5% 15% 17.5% 15%;
+  margin: 12.5% 15% 12% 15%;
 }
 .alignment2 {
   text-align: center;
@@ -141,10 +141,10 @@ h2 {
   margin-bottom: 2%;
 }
 .image_resize {
-  width: 70%;
+  width: 100%;
   height: auto;
   float: left;
-  margin: 0% 15% 15% 15%;
+  margin: 0% 15% 10% 0%;
 }
 .margin {
   margin: 0% 10%;
@@ -168,11 +168,11 @@ h2 {
 }
 .image_resize2 {
   width: 85%;
-  margin: 0% 7.5% 10% 7.5%;
+  margin: 0% 7.5% 1.5% 7.5%;
 }
 .image_resize3 {
   width: 85%;
-  margin: 0% 7.5% 0% 7.5%;
+  margin: 0% 7.5% 5% 7.5%;
 }
 .gap {
   margin: 100% 0% 5% 0%;
