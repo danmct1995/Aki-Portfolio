@@ -65,10 +65,10 @@ nav {
   margin: 15% 0% 0% 10%;
 }
 span {
-  max-width: 41%;
+  max-width: 42%;
   color: black;
   font-family: "karla";
-  font-size: 2.15em;
+  font-size: 2em;
   float: right;
   margin: 15% 12.5% 0% 5%;
 
@@ -210,7 +210,7 @@ font-size: 1.1em;
 }
 @media (min-width: 768px) and (max-width: 1024px) {
 span  {
-font-size: 1.1em;
+font-size: 1em;
   line-height: 1.5;
   }
 }
